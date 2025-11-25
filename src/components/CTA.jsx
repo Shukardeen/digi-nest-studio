@@ -21,7 +21,7 @@ function CTA() {
         <div className="flex flex-wrap gap-3">
           <a
             className="inline-flex items-center justify-center rounded-full bg-linear-to-r from-sky-400 via-cyan-300 to-amber-300 px-5 py-3 font-semibold text-slate-950 shadow-lg transition hover:opacity-95"
-            href="mailto:hello@diginest.studio"
+            href="mailto:info.digineststudio@gmail.com"
           >
             info.digineststudio@gmail.com
           </a>
